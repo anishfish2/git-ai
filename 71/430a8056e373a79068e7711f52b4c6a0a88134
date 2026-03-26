@@ -1,0 +1,23 @@
+src/commands/checkpoint_agent/agent_presets.rs
+  fd528823e8d35d8e 3515-3525,3608-3623,3625-3636,3639-3662,3665-3674
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.19",
+  "base_commit_sha": "71430a8056e373a79068e7711f52b4c6a0a88134",
+  "prompts": {
+    "fd528823e8d35d8e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "",
+        "model": ""
+      },
+      "human_author": "Anish Karthik <anishkarthik21@gmail.com>",
+      "messages": [],
+      "total_additions": 76,
+      "total_deletions": 6,
+      "accepted_lines": 76,
+      "overriden_lines": 0
+    }
+  }
+}
